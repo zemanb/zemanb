@@ -6,12 +6,14 @@ I'm currently working as a software developer, and I'm passionate about both sof
 
 University of Michigan: B.S. in Physics (Data Science)
 Washington & Lee University
+
 💼 Professional & Research Experience
 
 Software Developer at Epic Systems (Current)
 Analytics Intern at Markel Corporation
 Product Data Cleanup Assistant at Fathead LLC
 Research projects in data analytics and mathematical modeling at Washington and Lee, Michigan State University, Wayne State University, and the University of Michigan. Many of these projects can be found on this page.
+
 🛠 Skills
 
 Languages: Python, R, C++, TypeScript, C#, Matlab
