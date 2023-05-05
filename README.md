@@ -22,4 +22,5 @@ Databases: SQL, NoSQL, M
 Data Analysis: Pandas, Numpy, Matplotlib, Tidyverse, DBeaver
 Computing: Excel, PPT, VS Code, APIs, Jupyter, LaTex, VDI, Command Line
 Analytics & ML: Regression, Classification, Unsupervised Methods
+
 Feel free to explore my repositories to learn more about my work in software development and data science, and don't hesitate to reach out if you'd like to collaborate or chat about these fields, or anything else!
