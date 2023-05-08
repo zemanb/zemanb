@@ -15,7 +15,7 @@ Research projects in data analytics and mathematical modeling at Washington and 
 Languages: Python, R, C++, TypeScript, C#, Matlab  
 Web Technologies: HTML, CSS, JavaScript, [Django](https://www.djangoproject.com/)  
 Databases: SQL, [NoSQL (M/Caché)](https://www.datasciencecentral.com/mumps-the-most-important-database-you-probably-never-heard-of/)
-Data Analysis: Pandas, Numpy, Matplotlib, Tidyverse, DBeaver  
+Data Analysis: Pandas, Numpy, Matplotlib, [Tidyverse](https://www.tidyverse.org/), [DBeaver](https://dbeaver.io/)  
 Computing: Excel, PPT, VS Code, APIs, Jupyter, LaTex, VDI, Command Line  
 Analytics & ML: Regression, Classification, Unsupervised Methods  
 
