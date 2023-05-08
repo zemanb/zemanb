@@ -30,3 +30,4 @@ If you would like to see some of my projects that I am unable to publish the cod
  
 Feel free to explore my repositories to learn more about my work in software development and data science, and don't hesitate to reach out if you'd like to collaborate or chat about these fields, or anything else!  
 
+***This GitHub profile is a compilation of code and PDF filed containing my work. No development was done using these repositories for version control***
