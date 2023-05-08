@@ -9,11 +9,11 @@ University of Michigan: B.S. in Physics (Data Science)
 Software Developer at [Epic Systems](https://www.epic.com/) (Current)  
 Analytics Intern at [Markel Corporation](https://www.markel.com/)  
 Product Data Cleanup Assistant at [Fathead LLC](https://fathead.com/?utm_campaign=2018-affiliate-program&utm_content=fhs-ad&affiliate_id=159404&click_id=4376304031&cm_mmc=EE-_-AFFILIATE-_-159404-_-8-10810&utm_source=pepperjam&utm_medium=affiliate&clickId=4376304031)  
-Research projects in data analytics and mathematical modeling:  
+Research projects in data analytics and mathematical modeling with these programs:  
 &nbsp;&nbsp;&nbsp;&nbsp;[Washington and Lee Physics and Engineering](https://my.wlu.edu/physics-and-engineering-department)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Michigan State University SURIEM Math REU Program](https://lbc.msu.edu/about/suriem.html)    
 &nbsp;&nbsp;&nbsp;&nbsp;[Wayne State University Computational Physics](https://clas.wayne.edu/physics)  
-&nbsp;&nbsp;&nbsp;&nbsp;[University of Michigan Sports Analytics Symposium](https://www.bing.com/search?q=michigan+sports+analytics+symposium&cvid=30bc1c115853458cb6b7a9534a1ce126&aqs=edge..69i57j0l8.8333j0j9&FORM=ANAB01&PC=DCTS).   
+&nbsp;&nbsp;&nbsp;&nbsp;[University of Michigan Sports Analytics Symposium](https://www.bing.com/search?q=michigan+sports+analytics+symposium&cvid=30bc1c115853458cb6b7a9534a1ce126&aqs=edge..69i57j0l8.8333j0j9&FORM=ANAB01&PC=DCTS)   
 Many of these projects can be found on this homepage.  
 
 🛠 Skills  
