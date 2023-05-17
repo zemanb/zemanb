@@ -17,12 +17,14 @@ Research projects in data analytics and mathematical modeling with these program
 Many of these projects can be found on this homepage.  
 
 🛠 Skills  
-Languages: Python, R, C++, TypeScript, C#, Matlab  
-Web Technologies: HTML, CSS, JavaScript, [Django](https://www.djangoproject.com/)  
-Databases: SQL, [NoSQL (M/Caché)](https://www.datasciencecentral.com/mumps-the-most-important-database-you-probably-never-heard-of/)
-Data Analysis: Pandas, Numpy, Matplotlib, [Tidyverse](https://www.tidyverse.org/), [DBeaver](https://dbeaver.io/)  
-Computing: Excel, PPT, VS Code, APIs, Jupyter, LaTex, VDI, Command Line  
-Analytics & ML: Regression, Classification, Unsupervised Methods  
+Languages: Python, R, C++, C#, TypeScript, JavaScript, SQL, NoSQL(MUMPS), VB, Matlab
+Web Technologies: HTML/CSS, React/JSX, XML, JSON, Git, GitHub, SVN, CLIs, Chrome DevTools
+Frameworks: Automated Testing Frameworks, Django, .NET, Epic Hyperspace
+ETL & Visualization: Jupyter Notebooks, Pandas, NumPy, Tidyverse, GGPlot, Matplotlib, Web Scraping
+Machine Learning: Regression, Text Classification, Scoring Calculations, KNN, Ridge, LASSO, PCR
+Mathematical Skills: Numerical Models, Differential & Functional Analysis, Linear & Complex Algebra
+Project Management: Cross-Team/Role Collaboration, Technical Language Translation, Technical Design
+Epic Certifications: .NET/C#, TypeScript, React/JSX, JavaScript, Web Dev, Git, VB6, MUMPS 
 
 🔒 Private Projects  
 As a software developer at Epic, where I worked on projects that improved patient care and streamlined healthcare workflows. While I am not able to share the code for these projects, I gained valuable experience in software development during my time at Epic. 
