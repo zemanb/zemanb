@@ -28,7 +28,7 @@ Epic Certifications: .NET/C#, TypeScript, React/JSX, JavaScript, Web Dev, Git, V
 
 🔒 Private Projects  
 As a software developer at Epic, where I worked on projects that improved patient care and streamlined healthcare workflows. While I am not able to share the code for these projects, I gained valuable experience in software development during my time at Epic. 
-If you would like to see some of my projects that I am unable to publish the code for, please visit [this page](https://eecs280staff.github.io/eecs280.org/archive/). These projects include a [euchre game](https://eecs280staff.github.io/p3-euchre/) and a [message board post classification algorithm]([https://eecs280staff.github.io/p3-euchre/](https://eecs280staff.github.io/p4-web/)).  
+If you would like to see some of my projects that I am unable to publish the code for, please visit [this page](https://eecs280staff.github.io/eecs280.org/archive/). These projects include a [euchre game](https://eecs280staff.github.io/p3-euchre/) and a [message board post classification algorithm](https://eecs280staff.github.io/p4-web/).  
  
 Feel free to explore my repositories to learn more about my work in software development and data science, and don't hesitate to reach out if you'd like to collaborate or chat about these fields, or anything else!  
 
