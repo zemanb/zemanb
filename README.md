@@ -1,5 +1,5 @@
 👋 Hi, I'm Ben Zeman!  
-I'm currently working as a software developer, and I'm passionate about both software development and data science. With a strong background in research, data analytics, and machine learning, I'm eager to contribute to the success of dynamic organizations in either field.
+I'm currently working as a software developer, and I'm passionate about both software development and data science. With a strong background in research, data analytics, and machine learning, I'm eager to contribute to the success of dynamic organizations.
 
 🎓 Education  
 University of Michigan: B.S. in Physics (Data Science)  
