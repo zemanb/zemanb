@@ -1,5 +1,5 @@
 👋 Hi, I'm Ben Zeman!  
-I'm a Full-Stack Software Engineer with a passion for problem-solving and data science. My academic background in physics, mathematics, and machine learning, along with my professional software engineering experience, have provided me effective and useful technical, troubleshooting, and interpersonal skills. I use my determination to help my team succeed, strong analytical instincts, and programming techniques to create efficient solutions in complex, data-rich environments. Here, you will find examples of projects where I've applied the above skills. Feel free to reach out to me via email or LinkedIn for any opportunities in software engineering, data science, and integrations of both fields.  
+I'm a Full-Stack Software Engineer passionate about problem-solving and data science. My academic background in physics, mathematics, and machine learning, along with my professional software engineering experience, has provided me with effective and valuable technical, troubleshooting, and interpersonal skills. I use my determination to help my team succeed, strong analytical instincts, and programming techniques to create efficient solutions in complex, data-rich environments. Here, you will find examples of projects where I've applied the above skills. Feel free to reach out to me via email or LinkedIn for any opportunities in software engineering, data science, and integrations of both fields.  
 
 🎓 Education  
 University of Michigan: B.S. in Physics (Data Science)  
@@ -8,7 +8,7 @@ University of Michigan: B.S. in Physics (Data Science)
 💼 Professional & Research Experience  
 Full-Stack Software Engineer at [Epic Systems](https://www.epic.com/) (Current)  
 Data Analytics and Development Intern at [Markel Corporation](https://www.markel.com/)  
-Data Management and Migrtion Intern at [Fathead LLC](https://fathead.com/?utm_campaign=2018-affiliate-program&utm_content=fhs-ad&affiliate_id=159404&click_id=4376304031&cm_mmc=EE-_-AFFILIATE-_-159404-_-8-10810&utm_source=pepperjam&utm_medium=affiliate&clickId=4376304031)  
+Data Management and Migration Intern at [Fathead LLC](https://fathead.com/?utm_campaign=2018-affiliate-program&utm_content=fhs-ad&affiliate_id=159404&click_id=4376304031&cm_mmc=EE-_-AFFILIATE-_-159404-_-8-10810&utm_source=pepperjam&utm_medium=affiliate&clickId=4376304031)  
 Research projects in data analytics and mathematical modeling with these programs:  
 &nbsp;&nbsp;&nbsp;&nbsp;[Washington and Lee Physics and Engineering](https://my.wlu.edu/physics-and-engineering-department)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Michigan State University SURIEM Math REU Program](https://lbc.msu.edu/about/suriem.html)    
@@ -31,4 +31,4 @@ If you would like to see some of my computer science projects that I am unable t
  
 Feel free to explore my repositories to learn more about my work in software development and data science, and don't hesitate to reach out if you'd like to collaborate or chat about these fields, or anything else!  
 
-***This GitHub profile is a compilation of code and PDF filed containing my work. No development has been completed using these repositories for version control.***
+***This GitHub profile is a compilation of code and PDF files containing my work. No development has been completed using these repositories for version control.***
