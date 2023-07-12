@@ -1,4 +1,4 @@
-👋 Hi, I'm Ben Zeman!
+👋 Hi, I'm Ben Zeman!  
 I'm a Full-Stack Software Engineer enthusiastic about problem-solving and data science. My academic background in Physics, Mathematics, and machine learning, along with my professional software engineering experience, has provided me with effective technical and troubleshooting skills. Additionally, my collaborative work with others—both in academic and professional experiences—has enhanced and expanded my interpersonal skills. I use my commitment to supporting team success, strong analytical instincts, and programming techniques to create efficient solutions in complex, data-rich environments.  
 
 Here, you will find examples of projects where I've applied the above skills. Feel free to contact me via email or LinkedIn for any opportunities in software engineering, data science, and integrations of both fields.  
